@@ -22,8 +22,7 @@ Installation & Setup
 
 1. Clone the repository
 
-git clone https://github.com/your-username/ecommerce-app.git
-cd ecommerce-app
+git clone https://github.com/Sayko005/Assignment3_backend/
 
 2. Install dependencies
 
